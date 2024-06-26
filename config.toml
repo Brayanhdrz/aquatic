@@ -1,0 +1,8 @@
+[captcha] 
+captcha_solving = "y"
+solving_api = "capmonster" #avaiable: capmonster, capsolver
+captcha_key = ""
+
+[proxy]
+#proxy format: ip:port (no auth), user:pass@ip:port (auth)
+use_proxies = "y"
